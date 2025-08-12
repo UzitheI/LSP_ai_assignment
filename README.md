@@ -316,44 +316,4 @@ print(result)
 4. Push to branch (`git push origin feature/new-feature`)
 5. Create Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **LangChain** - For the powerful AI orchestration framework
-- **Google AI** - For providing the Gemini 2.5 Flash model
-- **Pandas** - For excellent data manipulation capabilities
-- **Pydantic** - For robust data validation
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Review the [Issues](https://github.com/sup-neupane/LSPP-Assignment-AI/issues) page
-3. Create a new issue with detailed information
-
-## 🎯 Assignment Compliance
-
-This system fully meets all LSPP assignment requirements:
-
-- ✅ **LCEL Framework Implementation** - Advanced chains with RunnableLambda
-- ✅ **Paragraph-by-Paragraph Processing** - Individual processing with progress tracking
-- ✅ **Company Name Extraction** - Enhanced with confidence scoring
-- ✅ **Founding Date Extraction** - Smart normalization (YYYY-MM-DD format)
-- ✅ **Founder Information Extraction** - Name standardization and validation
-- ✅ **CSV Export** - Standard `company_info.csv` format
-- ✅ **Date Intelligence** - Handles incomplete dates with smart defaults
-- ✅ **Agentic Workflow** - Multi-stage processing pipeline
-
-### Bonus Features
-- 🚀 **Advanced Analytics** - Industry insights and quality metrics
-- 🚀 **Confidence Scoring** - AI-powered extraction quality assessment
-- 🚀 **Geographic Intelligence** - Location extraction and analysis
-- 🚀 **Multi-Format Export** - 4 comprehensive output files
-
----
-
-**Built with ❤️ using LangChain and Google Gemini AI**
+**Built by UziPuri**
