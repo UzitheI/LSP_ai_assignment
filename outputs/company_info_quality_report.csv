@@ -1,0 +1,7 @@
+Metric,Value
+Total Companies Extracted,30
+Average Confidence Score,89.4%
+High-Confidence Extractions,25 (83.3%)
+Processing Time (seconds),17.78
+Paragraphs Processed,11
+Extraction Rate (companies/paragraph),2.73

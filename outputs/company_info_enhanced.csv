@@ -1,0 +1,31 @@
+S.N.,Company Name,Founded in,Founded by,Confidence Score,Company Age,Founder Count,Location,Industry
+1,The Coca-Cola Company,1900-01-01,John Stith Pemberton,0.121,125,1,"Atlanta, Georgia",Food & Beverage
+2,Sony Corporation,1946-05-07,"Masaru Ibuka, Akio Morita",1.000,79,2,"Tokyo, Japan",Technology
+3,McDonald's Corporation,1955-04-15,Ray Kroc,1.000,70,1,"Des Plaines, Illinois",Food & Beverage
+4,Intel Corporation,1968-07-18,"Robert Noyce, Gordon Moore",1.000,57,2,"Mountain View, California",Technology
+5,"Samsung Electronics Co., Ltd.",1969-01-13,Lee Byung-chul,1.000,56,1,"Su-dong, South Korea",Technology
+6,Microsoft Corporation,1975-04-04,"Bill Gates, Paul Allen",1.000,50,2,"Albuquerque, New Mexico",Technology
+7,Apple Inc.,1976-04-01,"Steve Jobs, Steve Wozniak, Ronald Wayne",1.000,49,3,"Cupertino, California",Technology
+8,Oracle Corporation,1977-06-16,"Larry Ellison, Bob Miner, Ed Oates",1.000,48,3,"Santa Clara, California",Technology
+9,NVIDIA Corporation,1993-04-05,"Jensen Huang, Chris Malachowsky, Curtis Priem",1.000,32,3,"Santa Clara, California",Technology
+10,Amazon.com Inc.,1994-07-05,Jeff Bezos,1.000,31,1,"Bellevue, Washington",Technology
+11,Google LLC,1998-09-04,"Larry Page, Sergey Brin",1.000,27,2,"Menlo Park, California",Technology
+12,Alibaba Group Holding Limited,1999-06-28,Jack Ma,1.000,26,1,"Hangzhou, China",E-commerce
+13,SAP SE,1972-04-01,"Dietmar Hopp, Hans-Werner Hector, Hasso Plattner, Klaus Tschira, Claus Wellenreuther",1.000,53,5,"Weinheim, Germany",Technology
+14,LinkedIn Corporation,2002-12-28,Reid Hoffman,1.000,23,1,"Mountain View, California",Social Media
+15,"Facebook, Inc.",2004-02-04,Mark Zuckerberg,1.000,21,1,"Cambridge, Massachusetts",Social Media
+16,"Twitter, Inc.",2006-03-21,"Jack Dorsey, Biz Stone, Evan Williams",1.000,19,3,"San Francisco, California",Not classified
+17,Spotify AB,2006-04-23,"Daniel Ek, Martin Lorentzon",1.000,19,2,"Stockholm, Sweden",Technology
+18,YouTube LLC,2005-02-14,"Steve Chen, Chad Hurley, Jawed Karim",1.000,20,3,"San Mateo, California",Social Media
+19,"Tesla, Inc.",2003-07-01,"Elon Musk, Martin Eberhard, Marc Tarpenning, JB Straubel, Ian Wright",1.000,22,5,"San Carlos, California",Automotive
+20,"Airbnb, Inc.",2008-08-01,"Brian Chesky, Joe Gebbia, Nathan Blecharczyk",0.847,17,3,"San Francisco, California",Social Media
+21,"PayPal Holdings, Inc.",1998-12-01,"Peter Thiel, Max Levchin, Luke Nosek, Ken Howery",0.847,27,4,Palo Alto,Technology
+22,PayPal,1900-01-01,,0.033,125,0,California,E-commerce
+23,"Stripe, Inc.",2010-01-01,"Patrick Collison, John Collison",0.605,15,2,"Palo Alto, California",Technology
+24,"Square, Inc.",2009-02-20,"Jack Dorsey, Jim McKelvey",1.000,16,2,"San Francisco, California",Finance
+25,"Block, Inc.",2009-02-20,"Jack Dorsey, Jim McKelvey",1.000,16,2,"San Francisco, California",Finance
+26,"Zoom Video Communications, Inc.",2011-04-21,Eric Yuan,1.000,14,1,"San Jose, California",Social Media
+27,"Slack Technologies, LLC",2009-01-01,"Stewart Butterfield, Eric Costello, Cal Henderson, Serguei Mourachov",0.605,16,4,"Vancouver, Canada",Technology
+28,"Rivian Automotive, Inc.",2009-06-23,RJ Scaringe,1.000,16,1,"Plymouth, Michigan",Automotive
+29,SpaceX,2002-03-14,Elon Musk,1.000,23,1,"Hawthorne, California",Aerospace
+30,TikTok,2016-09-01,Zhang Yiming,0.762,9,1,"Beijing, China",Entertainment
